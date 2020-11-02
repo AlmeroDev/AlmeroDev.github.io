@@ -1,0 +1,12 @@
+User-agent: yandex
+Allow: /bklean.ru/
+Disallow: /admin/
+Clean-param: is_view&themes&mode
+
+google-site-verification=A2wMvPDJf4o1vH-B07rP3yc6SP8ChKtDRY3qQErJJRg
+google-site-verification: google87cf5c93a66021ce.html
+
+
+Sitemap: https://bklean.ru/sitemap.xml
+
+Clean-param: is_view&themes&mode
